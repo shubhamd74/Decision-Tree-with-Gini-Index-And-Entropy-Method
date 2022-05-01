@@ -1,0 +1,1 @@
+# Decision-Tree-with-Gini-Index-And-Entropy-Method
